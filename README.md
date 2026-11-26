@@ -3,7 +3,7 @@ A Java application built with Spring for importing, processing, and exporting JS
 
 The project works with nested entities and DTOs, implementing custom queries and sorting operations to retrieve and manipulate data efficiently.
 
-#Features
+# Features
 JSON Import & Export: Processes JSON data for importing into and exporting from the application.
 
 Nested Entity Mapping: Handles relationships between nested entities and their corresponding DTOs.
@@ -16,7 +16,7 @@ DTO Mapping: Uses Java collections and List manipulations to transform and map d
 
 Database Integration: Connects to an SQL database for data persistence and retrieval.
 
-#Technical Implementation
+# Technical Implementation
 The application uses Spring to manage database interactions, data processing, and entity relationships.
 
 Particular attention was given to:
