@@ -19,19 +19,14 @@ Database Integration: Connects to an SQL database for data persistence and retri
 # Technical Implementation
 Uses Spring to manage database interactions, data processing, and entity relationships.
 
-Particular attention was given to:
-
-Mapping nested entities to DTOs.
-
-Manipulating Java collections during data transformation.
-
-Implementing custom queries for different sorting requirements.
-
-Validating data during database seeding.
+- Mapping nested entities to DTOs.
+- Manipulating Java collections during data transformation.
+- Implementing custom queries for different sorting requirements.
+- Validating data during database seeding.
 
 # Technologies Used
-Java
-Spring
-SQL
-JSON
-DTOs
+-Java
+-Spring
+-SQL
+-JSON
+-DTOs
