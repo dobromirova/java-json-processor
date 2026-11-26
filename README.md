@@ -17,7 +17,7 @@ DTO Mapping: Uses Java collections and List manipulations to transform and map d
 Database Integration: Connects to an SQL database for data persistence and retrieval.
 
 # Technical Implementation
-The application uses Spring to manage database interactions, data processing, and entity relationships.
+Uses Spring to manage database interactions, data processing, and entity relationships.
 
 Particular attention was given to:
 
