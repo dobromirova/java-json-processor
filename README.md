@@ -25,8 +25,8 @@ Uses Spring to manage database interactions, data processing, and entity relatio
 - Validating data during database seeding.
 
 # Technologies Used
--Java
--Spring
--SQL
--JSON
--DTOs
+- Java
+- Spring
+- SQL
+- JSON
+- DTOs
