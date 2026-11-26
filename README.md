@@ -6,7 +6,7 @@ The project works with nested entities and DTOs, implementing custom queries and
 # Features
 **JSON Import & Export:** Processes JSON data for importing into and exporting from the application.
 
-**Nested Entity Mapping:**Handles relationships between nested entities and their corresponding DTOs.
+**Nested Entity Mapping:** Handles relationships between nested entities and their corresponding DTOs.
 
 **Custom Queries:** Implements custom database queries to retrieve and sort data according to different criteria.
 
