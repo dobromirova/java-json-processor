@@ -1,4 +1,4 @@
-## JSON – JSON Processing with Spring
+## JSON – Processing with Spring
 A Java application built with Spring for importing, processing, and exporting JSON data through an SQL database.
 
 The project works with nested entities and DTOs, implementing custom queries and sorting operations to retrieve and manipulate data efficiently.
